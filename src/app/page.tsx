@@ -162,7 +162,7 @@ export default function Home() {
             Global Aquatics
           </h1>
           <h2 className="text-xl md:text-2xl font-semibold text-blue-600 mb-2">
-            AOSI 2024 - Bangkok
+            AOSI 2026 - Bangkok
           </h2>
           <p className="text-slate-500 text-lg">
             Team Holding Room Booking Portal (First-Come, First-Served)
